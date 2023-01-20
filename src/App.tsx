@@ -1,14 +1,13 @@
 import React from 'react';
 
 import './App.css';
-import Header from './components/Header';
+import QrCode from './components/qrcode/QrCode';
+
 
 
 function App() {
   return ( 
-    <main>
-      <Header/>
-    </main>
+      <QrCode/>
   );
 }
 
