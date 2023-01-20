@@ -1,12 +1,12 @@
 .container{
     width: 100vw;
     height: 100vh;
-    background: gray;
+    background: hsl(212, 45%, 89%)
 }
 .content{
     width: 20rem;
     height: 30rem;
-    background: #fff;
+    background: hsl(0, 0%, 100%);
     flex-direction: column;
     border-radius: 15px;
     text-align: center;
